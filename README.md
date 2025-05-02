@@ -38,8 +38,8 @@ Yetkinlikleri: Web geliştirme, frontend ve backend teknolojileri, iletişim ve 
 Görevi: Projenin iletişim sorumlusu ve aynı zamanda web sitesinin oluşturulmasında görev alır. Hatice, ekip içi koordinasyonu sağlar ve proje dışı iletişimleri yönetir.
 
 Şevval Yavuz:
-Yetkinlikleri: Web geliştirme, HTML, CSS, JavaScript, kullanıcı arayüzü (UI) ve kullanıcı deneyimi (UX) tasarımı.
-Görevi: Web sitesinin frontend geliştirmesiyle ilgilenir. Şevval, kullanıcı dostu ve estetik bir arayüz oluşturur.
+Yetkinlikleri: Web geliştirme, HTML, CSS, JavaScript, kullanıcı arayüzü (UI) ve kullanıcı deneyimi (UX) tasarımı, görsel tasarım araçları, takım içi teknik koordinasyon.
+Görevi: Web sitesinin kullanıcı arayüzünün geliştirilmesinden sorumludur. Şevval, kullanıcı dostu ve estetik bir arayüz tasarlamanın yanı sıra, sayfa akışları ve kullanıcı etkileşimleri konusunda iyileştirmeler yapar. Ayrıca, frontend ile backend entegrasyonu sırasında teknik destek sağlar ve projenin genel görünümüne dair karar alma süreçlerinde aktif rol oynar.
 
 Çiğdem Avcı:
 Yetkinlikleri: Web geliştirme, backend programlama, veri tabanı yönetimi.
